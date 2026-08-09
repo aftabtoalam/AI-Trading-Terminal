@@ -1,0 +1,14 @@
+{
+  "name": "coinscope-ai-proxy",
+  "version": "1.0.0",
+  "description": "Tiny proxy that keeps your AI provider keys off the browser for CoinScope.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
