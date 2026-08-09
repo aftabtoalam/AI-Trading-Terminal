@@ -2,7 +2,7 @@
 
 An open-source crypto terminal — live charts, real market data, and an optional AI read, all in plain HTML/CSS/JS. No build step, no framework, no paid data.
 
-![Preview](terminal-preview.png)
+![Preview](panel-preview.png)
 
 Fork it, gut it, make it yours. If this saves you a weekend of setup, a ⭐ on the repo helps other people building crypto tools find it too.
 
